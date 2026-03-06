@@ -1,0 +1,4 @@
+5.8. Criando projeto do microsserviço de Ordering - 2'50"
+
+Ao importar o projeto, se o Intellij não reconhecer, ir com botão direito no arquivo build.gradle -> Link Gradle Project
+
