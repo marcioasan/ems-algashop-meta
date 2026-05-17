@@ -2,3 +2,8 @@
 
 Ao importar o projeto, se o Intellij não reconhecer, ir com botão direito no arquivo build.gradle -> Link Gradle Project
 
+6.23. Implementando o padrão TestDataBuilder em Order - 11'
+#Mostra como customizar o gerador de setter no Intellij.
+alt + insert abre as opções para gerar getter, setter, construtor, etc.
+
+
