@@ -6,4 +6,5 @@ Ao importar o projeto, se o Intellij não reconhecer, ir com botão direito no a
 #Mostra como customizar o gerador de setter no Intellij.
 alt + insert abre as opções para gerar getter, setter, construtor, etc.
 
-
+#Comentário de aluno - Problema na simulação de optimistic locking no teste unitário
+https://app.algaworks.com/forum/topicos/92606/problema-na-simulacao-de-optimistic-locking-no-teste-unitario
