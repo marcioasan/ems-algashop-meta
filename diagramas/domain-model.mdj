@@ -206,7 +206,7 @@
 											"top": 721,
 											"width": 234.4033203125,
 											"height": 13,
-											"text": "-birthDate: BirthDate",
+											"text": "-value: BirthDate",
 											"horizontalAlignment": 0
 										},
 										{
@@ -7710,7 +7710,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGXf154juFRw1k="
 							},
-							"name": "birthDate",
+							"name": "value",
 							"visibility": "private",
 							"type": "BirthDate"
 						},
@@ -9144,7 +9144,7 @@
 											"top": 241,
 											"width": 287,
 											"height": 13,
-											"text": "-birthDate: BirthDate",
+											"text": "-value: BirthDate",
 											"horizontalAlignment": 0
 										},
 										{
