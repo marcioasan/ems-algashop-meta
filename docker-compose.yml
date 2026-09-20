@@ -1,0 +1,9 @@
+#10.4. API da Rapi-Dex com WireMock - 50"
+services:
+  rapidexapi:
+    image: wiremock/wiremock:3x
+    ports:
+      - "8780:8080"
+    volumes:
+      - ./etc/wiremock:/home/wiremock/mappings
+    command: --verbose
