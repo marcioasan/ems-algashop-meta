@@ -6,4 +6,4 @@ services:
       - "8780:8080"
     volumes:
       - ./etc/wiremock:/home/wiremock/mappings
-    command: --verbose
+    command: --verbose --disable-http2-plain  #10.5. Integração com Spring RestClient - 15' o erro que ocorre na aula o Alex resolve adicionando --disable-hhtp2-plain, mas no meu código não adicionei e funcionou mesmo assim
