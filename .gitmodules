@@ -6,3 +6,7 @@
 	path = microservices/ordering
 	url = https://github.com/marcioasan/ems-algashop-ordering.git
 	branch = main
+[submodule "microservices/billing"]
+	path = microservices/billing
+	url = https://github.com/marcioasan/ems-algashop-billing.git
+	branch = main
